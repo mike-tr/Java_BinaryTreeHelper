@@ -173,8 +173,6 @@ public class BinaryTreeHelper {
     }
 
     public static void printTree(Node root, int depth){
-        // all the code here is made by me michael!
-
         // this code only prints the tree of to the depth specified, well it can be improved but nah
         String data = "";
         List<Node> currentLevel = new ArrayList<>();
